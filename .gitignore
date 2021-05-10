@@ -1,0 +1,16 @@
+.pytest_cache
+dags/__pycache__
+tests/dags/__pycache__
+*.pyc
+*.whl
+*.egg-info
+.pytest_cache
+.eggs
+
+*.iml
+.idea
+.DS_Store
+build
+dist
+venv
+MANIFEST
